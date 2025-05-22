@@ -1,0 +1,13 @@
+*.env
+config.local.php
+venv/
+.venv/
+node_modules/
+*.pyc
+__pycache__/
+build/
+dist/
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
